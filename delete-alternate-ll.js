@@ -9,7 +9,7 @@ class Node {
 
 
 function deleteAlternate() {
-    var head
+    var head;
     //do nothing if no head
     if (head == null) {
         return;
