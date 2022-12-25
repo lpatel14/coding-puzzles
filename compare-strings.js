@@ -31,4 +31,4 @@ function test_isSubset() {
     }
     
 }
-//console.log(test_isSubset());
+console.log(test_isSubset());
